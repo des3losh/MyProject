@@ -1,0 +1,10 @@
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\bin\Debug\PersonInformation.exe.config
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\bin\Debug\PersonInformation.exe
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\bin\Debug\PersonInformation.pdb
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.csprojResolveAssemblyReference.cache
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.MyForm.resources
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.Properties.Resources.resources
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.csproj.GenerateResource.Cache
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.exe
+c:\users\des3losh\documents\visual studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.pdb
+C:\Users\Des3Losh\Documents\Visual Studio 2017\Projects\PersonInformation\PersonInformation\obj\Debug\PersonInformation.LoginForm.resources
